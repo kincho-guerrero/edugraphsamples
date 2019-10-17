@@ -1,0 +1,11 @@
+C:\Users\joguerre\source\repos\MeetingScheduler\bin\Debug\netcoreapp2.2\MeetingScheduler.deps.json
+C:\Users\joguerre\source\repos\MeetingScheduler\bin\Debug\netcoreapp2.2\MeetingScheduler.runtimeconfig.json
+C:\Users\joguerre\source\repos\MeetingScheduler\bin\Debug\netcoreapp2.2\MeetingScheduler.runtimeconfig.dev.json
+C:\Users\joguerre\source\repos\MeetingScheduler\bin\Debug\netcoreapp2.2\MeetingScheduler.dll
+C:\Users\joguerre\source\repos\MeetingScheduler\bin\Debug\netcoreapp2.2\MeetingScheduler.pdb
+C:\Users\joguerre\source\repos\MeetingScheduler\obj\Debug\netcoreapp2.2\MeetingScheduler.csprojAssemblyReference.cache
+C:\Users\joguerre\source\repos\MeetingScheduler\obj\Debug\netcoreapp2.2\MeetingScheduler.csproj.CoreCompileInputs.cache
+C:\Users\joguerre\source\repos\MeetingScheduler\obj\Debug\netcoreapp2.2\MeetingScheduler.AssemblyInfoInputs.cache
+C:\Users\joguerre\source\repos\MeetingScheduler\obj\Debug\netcoreapp2.2\MeetingScheduler.AssemblyInfo.cs
+C:\Users\joguerre\source\repos\MeetingScheduler\obj\Debug\netcoreapp2.2\MeetingScheduler.dll
+C:\Users\joguerre\source\repos\MeetingScheduler\obj\Debug\netcoreapp2.2\MeetingScheduler.pdb
