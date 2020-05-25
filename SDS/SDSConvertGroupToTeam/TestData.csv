@@ -1,0 +1,4 @@
+GraphId,SectionId,Name,SisName,Number,Period,Status,TermId,TermName,TermStartDate,TermEndDate,CourseId,CourseName,CourseNumber,CourseDescription,CourseSubject,CreatedDateTime,Usage.HasFiles
+dc002576-a381-412c-ac09-42800d3349d7,11002,Math - Algebra 2,Math - Algebra 2,,,,,,,,,,,,,2020-05-18T16:25:38Z,FALSE
+99bf0ff1-6b9d-422a-b84e-cac5f4380cc6,11003,Math - Algebra 3,Math - Algebra 3,,,,,,,,,,,,,2020-05-18T16:25:38Z,FALSE
+71ef3a3d-0f3c-4634-95cf-d3ef57954b6b,11001,Math - Algebra 1,Math - Algebra 1,,,,,,,,,,,,,2020-05-18T16:25:39Z,FALSE

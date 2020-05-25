@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\joguerre\\Downloads\\edugraphsamples-master\\edugraphsamples-master\\DotNet Core\\SDSConvertGroupToTeam\\SDSConvertGroupToTeam.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\joguerre\\Downloads\\edugraphsamples-master\\edugraphsamples-master\\DotNet Core\\SDSConvertGroupToTeam\\SDSConvertGroupToTeam.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\joguerre\\Downloads\\edugraphsamples-master\\edugraphsamples-master\\DotNet Core\\SDSConvertGroupToTeam\\SDSConvertGroupToTeam.csproj",
+        "projectName": "SDSConvertGroupToTeam",
+        "projectPath": "C:\\Users\\joguerre\\Downloads\\edugraphsamples-master\\edugraphsamples-master\\DotNet Core\\SDSConvertGroupToTeam\\SDSConvertGroupToTeam.csproj",
+        "packagesPath": "C:\\Users\\joguerre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joguerre\\Downloads\\edugraphsamples-master\\edugraphsamples-master\\DotNet Core\\SDSConvertGroupToTeam\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\joguerre\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.UserSecrets": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.Graph": {
+              "target": "Package",
+              "version": "[1.21.0, )"
+            },
+            "Microsoft.Identity.Client": {
+              "target": "Package",
+              "version": "[4.7.1, )"
+            },
+            "TinyCsvParser": {
+              "target": "Package",
+              "version": "[2.5.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
